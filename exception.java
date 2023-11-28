@@ -8,15 +8,15 @@ class exceptionhandling
 			}
 		catch(ArithmeticException e1)
 		{	
-			System.out.println("aro");	
-		}+.' vhnj k
+			System.out.println("arithmetic error occured");	
+		}
 		try{
 			int a[]=new int[5];
 			a[6]=9;
 		}
 		catch(ArrayIndexOutOfBoundsException e2)
 		{
-			System.out.println("byju kaliadan error");
+			System.out.println("array out of bound occured");
 		}
 	}
-v}mjg ko m/vh['j u
+}
